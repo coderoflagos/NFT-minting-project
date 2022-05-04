@@ -83,3 +83,4 @@ Then let's fetch the NFT you created. Below the mint button, you can see the ID.
 
 You can see the NFT you created.
 <img width="1440" alt="スクリーンショット 2021-12-14 11 18 29" src="https://user-images.githubusercontent.com/53442928/145921034-45e8c10a-9fb4-40c4-b279-51ac69431fdc.png"># NFT-minting-project
+# NFT-minting-project
